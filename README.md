@@ -30,26 +30,6 @@ The project code is segregated into several files with each file containing spec
 
 ![image](https://github.com/Ashna9Y/Vehicle-Rental-System/assets/114132000/cc674989-9a4b-49a9-b834-80fbf3596a00)
 
-FILE NAME	                 CLASS NAME    	DESCRIPTION
-Time.cpp	                  TIME	        This class is used to take start and end time as input from user and calculate 
-                                          total hours based on that.
-                                    
-Date.cpp	                  DATE         	This class is used to take start and end date as input from user and calculate 
-                                          total days based  on that.
-                                    
-Account.cpp	                account	      This class is used to derive two other classes to store, display and check 
-                                          accounts of both users and admins
-                                          
-Vehicle.cpp         	      Vehicle	      This class is used to derive two other classes to display, select and rent 
-                                          vehicles. 
-                                          
-Rent.cpp	                   -	          This file contains code for calculating rent
-
-VEHICLE RENTAL SYSTEM.cpp	   -	          This is the main code for project using all other files
-
-
-
-
 
 FLOW CHART:
 [SDF PROJECT.pdf](https://github.com/Ashna9Y/Vehicle-Rental-System/files/15134506/SDF.PROJECT.pdf)
