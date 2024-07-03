@@ -30,6 +30,3 @@ The project code is segregated into several files with each file containing spec
 
 ![image](https://github.com/Ashna9Y/Vehicle-Rental-System/assets/114132000/cc674989-9a4b-49a9-b834-80fbf3596a00)
 
-
-FLOW CHART:
-[SDF PROJECT.pdf](https://github.com/Ashna9Y/Vehicle-Rental-System/files/15134506/SDF.PROJECT.pdf)
